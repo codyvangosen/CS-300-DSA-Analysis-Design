@@ -11,6 +11,7 @@ Data structures provided structured and standardized methods for sharing and hol
 
 How did you overcome any roadblocks you encountered while going through the activities or project?
 
+The class textbook, suggested supplementary reading materials, and a combination of personal research on stack overflow all provded very useful in overcoming roablocks as they presented themselves. This coupled with the set it and forget it approach helped to overcome many of the major issues faced during program implementation. 
 
 How has your work on this project expanded your approach to designing software and developing programs?
 
